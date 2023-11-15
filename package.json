@@ -8,6 +8,7 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
+    "start": "node ./node_modules/nuxt/bin/nuxt.mjs start",
     "preview": "nuxt preview"
   },
   "devDependencies": {
