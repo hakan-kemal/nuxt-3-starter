@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="home-page">
-      <h1>Hello! This is a simple Nuxt 3 app.</h1>
+      <h1>Hello! This is a simple Nuxt 3 app. With a PR template.</h1>
       <h2>
         Click on the buttons below to check out a server route or an API route
         :)
